@@ -55,8 +55,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 <br/>
   before
   <br/>
-  ![test7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/efc1a8df-b825-483e-a20a-0501b5bf0212)
-  https://github.com/Silhouett2/opensw23-KYW/issues/1#issue-1732750067
+![test7](./pictures/test7.jpg)
 
 <br/><br/>
 <br/><br/>
