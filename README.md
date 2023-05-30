@@ -31,7 +31,8 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 3. Install required packages
    ```bash
    pip install -r requirements.txt
-   <br/><br/>
+   
+<br/><br/>
    
    
 - For `auto_blur_image.py`:
