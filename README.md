@@ -55,20 +55,20 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   <br/>
   before
   <br/>
-![test7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/aaa721fa-750d-4b40-a155-a5d0e1fdac4b)
+  ![test7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/aaa721fa-750d-4b40-a155-a5d0e1fdac4b)
 <br/><br/>
 <br/><br/>
   -Threshold = 0.4
   <br/>
-![output7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/e28b1527-8d98-430f-ab1a-e56d945ad864)
+  ![output7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/e28b1527-8d98-430f-ab1a-e56d945ad864)
 <br/><br/>
   -Threshold = 0.1
   <br/>
-![output7-2](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/22eea773-7592-4de5-b9c4-133ec9daeb37)
+  ![output7-2](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/22eea773-7592-4de5-b9c4-133ec9daeb37)
 <br/><br/>
   -Threshold = 0.05
   <br/>
-![output7-3](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/eebc95e8-7b70-4a64-a3fd-96c777bf90ee)
+  ![output7-3](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/eebc95e8-7b70-4a64-a3fd-96c777bf90ee)
 <br/><br/>
 
 
