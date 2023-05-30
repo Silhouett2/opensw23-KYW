@@ -73,7 +73,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 
 
 
-Assignment Day 1
+# Assignment Day 1
 
  
 
