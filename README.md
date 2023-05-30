@@ -31,6 +31,27 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 3. Install required packages
    ```bash
    pip install -r requirements.txt
+   
+- For `auto_blur_image.py`:
+4. Run:
+   ```bash
+   python auto_blur_image.py --input_image <PATH_TO_INPUT_JPG_FILE> --output_image <PATH_TO_OUTPUT_JPG_FILE>  --model_path <PATH_TO_INPUT_PB_FILE> --threshold <THRESHOLD>
+   ```
+
+- For `auto_blur_video.py`:
+4. Run:
+   ```bash
+   python auto_blur_video.py --input_video <PATH_TO_INPUT_MP4_FILE> --output_video <PATH_TO_OUTPUT_MP4_FILE> --model_path  <PATH_TO_INPUT_PB_FILE>  --threshold <THRESHOLD>
+   ```
+
+- For `manual_blur_image.py`:
+4. Run:
+   ```bash
+   python manual_blur_image.py --input_image <PATH_TO_INPUT_JPG_FILE> --output_image <PATH_TO_OUTPUT_JPG_FILE>
+   ```
+    * Select your ROI (Region of Interest)
+    * Press <kbd>Enter</kbd>
+    * Press <kbd>Q</kbd> to finish **or** any key to select another ROI
 
 # Presentation
 
