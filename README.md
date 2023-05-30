@@ -50,11 +50,11 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   ![output3](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/cc48999d-554a-4604-8921-9ead3fe5d561)
   <br/><br/>
 
-  <br/><br/>
-  ### Threshold Adjustment
+### Threshold Adjustment
+<br/><br/>
   -before
   <br/><br/>
-  ![test7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/795ee9f3-5ab4-4da3-9e63-060b9100d1a1)
+    ![test7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/795ee9f3-5ab4-4da3-9e63-060b9100d1a1)
 
 
 <br/><br/>
