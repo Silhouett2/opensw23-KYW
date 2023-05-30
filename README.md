@@ -25,7 +25,12 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 
 # Installation
 
-  –Explain the installation and running process for the code (currently empty)
+- 🔧🔩 Usage 
+1. Clone or download this repo
+2. Open [src](/src) folder in CMD
+3. Install required packages
+   ```bash
+   pip install -r requirements.txt
 
 # Presentation
 
