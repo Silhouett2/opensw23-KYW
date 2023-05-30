@@ -34,6 +34,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
    
 <br/><br/>
    
+# Run source code
    
 - For `auto_blur_image.py`:
 
