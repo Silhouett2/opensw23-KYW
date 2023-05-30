@@ -51,7 +51,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   <br/><br/>
 
   <br/><br/>
-  ###Threshold Adjustment
+  ### Threshold Adjustment
   <br/>
   before
   <br/>
