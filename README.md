@@ -66,3 +66,41 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 # Presentation
 
   –Insert the video link for the final presentation (currently empty)
+
+
+
+
+
+
+
+Assignment Day 1
+
+ 
+
+•Creating a GutHub Page
+  –Set the name as opensw23-team_name
+  –Write everything on README.md
+•Team Introduction
+  –Include team member’s names, IDs, and roles
+•Topic Introduction
+  –Provide an overview of the chosen topic (currently empty)
+•Results
+  –Describe the representative results or findings (currently empty)
+
+•Analysis/Visualization
+
+  –Present any analysis or visualizations related to the topic (currently empty)
+
+•Installation
+
+  –Explain the installation and running process for the code (currently empty)
+
+•Presentation
+
+  –Insert the video link for the final presentation (currently empty)
+
+ 
+
+•Submit the link to your repository to E-Campus.
+
+  –Please note that any late pushes or commits will receive zero credit.
