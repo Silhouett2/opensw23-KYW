@@ -7,6 +7,9 @@
 ImageBlur
 AutoFace-Blur
 
+# 🕵️‍♀️ Blurry Faces
+A tool to blur faces or other regions in photos and videos 🕵️‍
+
 # Results
   
   –Describe the representative results or findings (currently empty)
