@@ -22,6 +22,21 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 # Analysis/Visualization
 
   –Present any analysis or visualizations related to the topic (currently empty)
+  ![test1](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/61c39943-978b-4c04-9c7d-0bb40b0be1db)
+![output1](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/0b151b0c-0b2c-45d4-b179-25a961adf431)
+
+  ![test2](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/1b9d0b87-4f83-427c-8e9f-a7f34a9f0ceb)
+![output2](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/bf4d2070-211e-4284-a57c-62dd8d4fecfb)
+
+![test3](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/1311130d-8f8b-4ae3-8a73-19186a56f958)
+![output3](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/cc48999d-554a-4604-8921-9ead3fe5d561)
+
+![test7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/aaa721fa-750d-4b40-a155-a5d0e1fdac4b)
+
+![output7](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/e28b1527-8d98-430f-ab1a-e56d945ad864)
+![output7-2](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/22eea773-7592-4de5-b9c4-133ec9daeb37)
+![output7-3](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/eebc95e8-7b70-4a64-a3fd-96c777bf90ee)
+
 
 # Installation
 
