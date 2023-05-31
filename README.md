@@ -136,15 +136,12 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
 
 - 🔧🔩 Usage 
 1. Clone or download this repo
-2. Install required packages  
-'numpy==1.19.4  
-tensorflow==2.3.1  
-opencv==4.5.0   '
+2. Install required packages    
+    numpy==1.19.4  
+    tensorflow==2.3.1  
+    opencv==4.5.0  
 3. Open [src](/src) folder in CMD
 
-numpy==1.19.4  
-tensorflow==2.3.1  
-opencv==4.5.0    
    
 # Run source code
    
