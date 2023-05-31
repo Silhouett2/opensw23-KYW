@@ -29,6 +29,11 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 
   –Present any analysis or visualizations related to the topic (currently empty)
   <br/><br/>
+  
+  `auto_blur_image.py`
+  
+  <br/><br/>
+  
   -before 
   <br/>
   ![test1](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/61c39943-978b-4c04-9c7d-0bb40b0be1db)
@@ -79,14 +84,18 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 <br/><br/>
 
 
+`auto_blur_video.py`
 
+<br/><br/>
+
+- before
 
 https://github.com/Silhouett2/opensw23-KYW/assets/125653123/2c8a30c8-bfb2-4af7-980c-fb822ea2de3d
 
 
 <br/><br/>
 
-
+- after
 
 
 
@@ -96,12 +105,25 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
 
 <br/><br/>
 
+`manual_blur_image.py`
+
+<br/><br/>
+
+- before
+
+<br/><br/>
 
 ![test5](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/09da00e7-f2fe-44a3-878a-dd5d87abcaab)
 
-
+<br/><br/>
 
 ![output5-2](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/5125dc39-1fcf-40d0-b58a-7a7c46a39498)
+
+<br/><br/>
+
+- after
+
+<br/><br/>
 
 ![output5](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/a06abb85-e214-4f7d-a815-f15c9c588ac7)
 
@@ -129,7 +151,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    python auto_blur_image.py --input_image <PATH_TO_INPUT_JPG_FILE> --output_image <PATH_TO_OUTPUT_JPG_FILE>  --model_path <PATH_TO_INPUT_PB_FILE> --threshold <THRESHOLD>
    ```
 
-- example code :  
+- example :  
    ```bash
    python auto_blur_image.py --input_image ../pictures/test1.jpg --output_image ../pictures/output1.jpg --model_path ../face_model/face.pb --threshold 0.4
    ```
@@ -143,7 +165,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    python auto_blur_video.py --input_video <PATH_TO_INPUT_MP4_FILE> --output_video <PATH_TO_OUTPUT_MP4_FILE> --model_path  <PATH_TO_INPUT_PB_FILE>  --threshold <THRESHOLD>
    ```
    
-- example code :  
+- example :  
    ```bash
    python auto_blur_video.py --input_video ../videos/test1.mp4 --output_video ../videos/output1.mp4 --model_path ../face_model/face.pb --threshold 0.4
    ```
@@ -156,7 +178,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    python manual_blur_image.py --input_image <PATH_TO_INPUT_JPG_FILE> --output_image <PATH_TO_OUTPUT_JPG_FILE>
    ```
 
-- example code :  
+- example :  
    ```bash
    python manual_blur_image.py --input_image ../pictures/test5.jpg --output_image ../pictures/output5.jpg
    ```
