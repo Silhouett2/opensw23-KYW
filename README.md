@@ -23,7 +23,9 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   
   -decrease Threshold then the blurring criterion is harder<br/>
   -but also there is incorrect output <br/>
-  -when Threshold >= 1 this program can't blur anything<br/>
+  -when Threshold >= 1 this program can't blur anything<br/>  
+  해상도가 높으면 프로그램이 화면 밖으로 삐져나간다.  
+  
 
 # Analysis/Visualization
 
