@@ -129,7 +129,9 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    python auto_blur_image.py --input_image <PATH_TO_INPUT_JPG_FILE> --output_image <PATH_TO_OUTPUT_JPG_FILE>  --model_path <PATH_TO_INPUT_PB_FILE> --threshold <THRESHOLD>
    ```
 <br/><br/>
+
 example code :
+
 <br/><br/>
     python auto_blur_image.py --input_image ../pictures/test1.jpg --output_image ../pictures/output1.jpg --model_path ../face_model/face.pb --threshold 0.4
     
@@ -141,7 +143,9 @@ example code :
    python auto_blur_video.py --input_video <PATH_TO_INPUT_MP4_FILE> --output_video <PATH_TO_OUTPUT_MP4_FILE> --model_path  <PATH_TO_INPUT_PB_FILE>  --threshold <THRESHOLD>
    ```
 <br/><br/>
+
 example code :
+
 <br/><br/>
     python auto_blur_video.py --input_video ../videos/test1.mp4 --output_video ../videos/output1.mp4 --model_path ../face_model/face.pb --threshold 0.4
 <br/><br/>
@@ -152,7 +156,9 @@ example code :
    python manual_blur_image.py --input_image <PATH_TO_INPUT_JPG_FILE> --output_image <PATH_TO_OUTPUT_JPG_FILE>
    ```
    <br/><br/>
+   
 example code :
+
 <br/><br/>
     python manual_blur_image.py --input_image ../pictures/test5.jpg --output_image ../pictures/output5.jpg
     <br/><br/>
