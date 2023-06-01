@@ -19,7 +19,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 2. [auto_blur_video](./src/auto_blur_video.py): Detects and blurs faces _(or objects)_ in a given video due to a Tensorflow model
 3. [manual_blur_image](./src/manual_blur_image.py): Blurs manually selected faces _(or objects)_
 
-# Results
+# Analysis/Visualization
   
   -decrease Threshold then the blurring criterion is harder<br/>
   -but also there is incorrect output <br/>
@@ -27,7 +27,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   해상도가 높으면 프로그램이 화면 밖으로 삐져나간다.  
   
 
-# Analysis/Visualization
+# Results
 
   –Present any analysis or visualizations related to the topic (currently empty)
   <br/><br/>
