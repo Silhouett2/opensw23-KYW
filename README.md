@@ -3,8 +3,6 @@
 201811201 원규연 <br/><br/>
 
 
-    hi
-
 # Topic introduction
 
 ImageBlur    
@@ -24,7 +22,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   -decrease Threshold then the blurring criterion is harder<br/>
   -but also there is incorrect output <br/>
   -when Threshold >= 1 this program can't blur anything<br/>  
-  해상도가 높으면 프로그램이 화면 밖으로 삐져나간다.  
+  -If the resolution is high, the program pouts out of the screen.<br/>  
   
 
 # Results
@@ -195,7 +193,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    
 <br/><br/>
 
-- 커맨드를 입력하면 미리보기 이미지파일이 출력되는데 이 파일의 x박스를 클릭해서 닫아주면 프로그램이 종료되면서 모자이크된 이미지 파일이 생성됩니다.
+- When you enter the command, a preview image file is printed, and if you click and close the x-box of the file, the program ends and a blurred image file is created.
 
 <br/><br/>
 
@@ -210,7 +208,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    python auto_blur_video.py --input_video ../videos/test1.mp4 --output_video ../videos/output1.mp4 --model_path ../face_model/face.pb --threshold 0.4
    ```
    <br/><br/>
-   - 커맨드를 입력하면 미리보기 동영상파일이 출력되는데 이 파일의 x박스를 클릭해서 닫아주면 프로그램이 종료되면서 모자이크된 동영상 파일이 생성됩니다.
+   - When you enter the command, a preview video file is printed, and if you click and close the x-box of this file, a blurred video file is created as the program ends.
    <br/><br/>
    
 - For `manual_blur_image.py`:
@@ -226,6 +224,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
     * Select your ROI (Region of Interest)
     * Press <kbd>Enter</kbd>
     * Press <kbd>Q</kbd> to finish **or** any key to select another ROI
+    * Similarly, when all is complete, a preview image file will be printed, and if you click and close the x-box of this file, the program will exit and create a blurred image file.
 <br/><br/>
 
 
