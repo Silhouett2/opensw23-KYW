@@ -19,7 +19,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 2. [auto_blur_video](./src/auto_blur_video.py): Detects and blurs faces _(or objects)_ in a given video due to a Tensorflow model
 3. [manual_blur_image](./src/manual_blur_image.py): Blurs manually selected faces _(or objects)_
 
-# Results
+# Analysis/Visualization
   
   -decrease Threshold then the blurring criterion is harder<br/>
   -but also there is incorrect output <br/>
@@ -27,7 +27,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   해상도가 높으면 프로그램이 화면 밖으로 삐져나간다.  
   
 
-# Analysis/Visualization
+# Results
 
   –Present any analysis or visualizations related to the topic (currently empty)
   <br/><br/>
@@ -83,6 +83,32 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   -Threshold = 0.05
   <br/>
   ![output7-3](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/eebc95e8-7b70-4a64-a3fd-96c777bf90ee)
+<br/><br/>
+
+- before
+
+<br/><br/>
+
+![test9](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/65714440-9f21-49eb-8eef-a28c51e1dd66)
+
+<br/><br/>
+
+  -Threshold = 0.4
+ 
+<br/><br/>
+
+![output9](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7dde57c3-0f30-41b5-9a67-7189ce89b280)
+
+
+<br/><br/>
+
+  -Threshold = 0.1
+
+<br/><br/>
+
+![output9-2](https://github.com/Silhouett2/opensw23-KYW/assets/125653123/9bdfa220-bcd5-4e3d-b2cf-60e62f43d778)
+
+
 <br/><br/>
 
 
@@ -168,6 +194,9 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    ```
    
 <br/><br/>
+
+- 커맨드를 입력하면 미리보기 이미지파일이 출력되는데 이 파일의 x박스를 클릭해서 닫아주면 프로그램이 종료되면서 모자이크된 이미지 파일이 생성됩니다.
+
 <br/><br/>
 
 - For `auto_blur_video.py`:
@@ -181,6 +210,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
    python auto_blur_video.py --input_video ../videos/test1.mp4 --output_video ../videos/output1.mp4 --model_path ../face_model/face.pb --threshold 0.4
    ```
    <br/><br/>
+   - 커맨드를 입력하면 미리보기 동영상파일이 출력되는데 이 파일의 x박스를 클릭해서 닫아주면 프로그램이 종료되면서 모자이크된 동영상 파일이 생성됩니다.
    <br/><br/>
    
 - For `manual_blur_image.py`:
@@ -205,7 +235,9 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
 
 
 
+# Original source  
 
+https://github.com/asmaamirkhan/BlurryFaces
 
 
 
