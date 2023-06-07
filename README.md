@@ -27,7 +27,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 
 # Results
 
-  –Present any analysis or visualizations related to the topic (currently empty)
+
   <br/><br/>
   
   `auto_blur_image.py`
@@ -230,7 +230,7 @@ https://github.com/Silhouett2/opensw23-KYW/assets/125653123/7cf0cb7f-2f40-477f-b
 
 # Presentation
 
-  –Insert the video link for the final presentation (currently empty)
+
 
 
 
