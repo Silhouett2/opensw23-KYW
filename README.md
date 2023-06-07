@@ -23,6 +23,7 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
   -but also there is incorrect output <br/>
   -when Threshold >= 1 this program can't blur anything<br/>  
   -If the resolution is high, the program pouts out of the screen.<br/>  
+  -This program supports only .jpg, .mp4 files
   
 
 # Results
