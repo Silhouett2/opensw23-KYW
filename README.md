@@ -28,7 +28,14 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 
 # Results
 
-
+   
+   원본 Repositoroy에 있던 테스트용 이미지와 동영상은 사용하지 않았고
+   인터넷에서 찾은 이미지 4개와 동영상 4개
+   제가 직접 촬영한 사진 5개를 사용했습니다. 
+   test1~4.jpg, test1~4.mp4 == internet search
+   test5~9.jpg == phone cam
+   
+   github에 올라와있는 사진중에서는 눈사람, 고양이, 스키장 사진이 직접 촬영한 사진입니다.
   <br/><br/>
   
   `auto_blur_image.py`
